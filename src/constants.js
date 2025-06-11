@@ -10,6 +10,7 @@ export const dialogueData = {
     refrigerator: `There are a lot of fridge magnets and a grocery list <span style="font-size: 20px">ooops I forgot to draw them :D</span>`,
     cutie: `Nunu is eeeeeeeping <span style="color:blue; font-size: 16px">Zzz</span>`,
     pics: `<span style="font-size:3rem; color:deeppink;">HAPPY BIRTHDAY BEBIIIIIIIIIIII♥♥♥♥♥</span>`,
-    notes: `It says <span style="color:red">"I love you"</span> here`
+    notes: `It says <span style="color:red">"I love you"</span> here`,
+    exit: `Close the page to exit`
     
 }
